@@ -1,10 +1,13 @@
 # arc_LANModule
 
-### What is It?
+### What is it?
 The LAN module for the ARC project (https://github.com/eagleEggs/arc)
 
 ### What does it do?
 It supports Provisioning devices, keeping track of eachother's online status, and reporing decibel alerts.
+
+![anim1](https://github.com/eagleEggs/arc_LANModule/blob/master/docs/Provisioning.png?)<br>
+![anim1](https://github.com/eagleEggs/arc_LANModule/blob/master/docs/Sustainment.png?)<br>
 
 ### Notes
 This module is GPL v3 Licensed.
